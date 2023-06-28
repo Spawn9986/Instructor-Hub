@@ -13,19 +13,22 @@ My part of the project consisted of leveraging React.js and CSS to design and im
 
 Technologies used in the project:
 
-- PERN Stack: (PostgreSQL | Express | React.js | Node)
-- Asana (Project Management)
-- BCrypt (login/ password security)
-- [`vite`](https://vitejs.dev/) - Module bundler, transpiler and dev server.
-- [`vitest`](https://vitest.dev/) - Test runner.
-- [`prettier`](https://prettier.io/) - Code formatter/checker.
-- [`react-testing-library`](https://testing-library.com/docs/react-testing-library/api/) - React component test helper.
-- [`msw`](https://testing-library.com/docs/react-testing-library/api/) - Request mocking library for writing frontend tests.
-- ['react-auth-kit] (https://authkit.arkadip.dev/) - Authentication kit used for react project to grant cookies for remembering users
-- [`supertest`](https://github.com/ladjs/supertest) - HTTP request simulator for backend testing.
-- [`docker`](https://www.docker.com/) - Containerization framework for dev and deployment.
-- ['playwright'] (https://www.npmjs.com/package/playwright-testing-library) - used for scripting UI interactivity tests and the resulting changes to the site
-- https://render.com/ - used for deploying the website production build
+- [`PostgreSQL`](https://www.postgresql.org/) - Object-Relational Database
+- [`Express`](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
+- [`React`](https://react.dev/) - User interface library
+- [`Node`](https://nodejs.org/en) - JavaScript runtime environment
+- [`Asana`](https://app.asana.com/0/home/1204525778089563) - Project Management tool
+- [`BCrypt`](https://bcrypt.online/) - Login/ Security (cryptographic hashing algorithm, recommended for password hashing)
+- [`Vite`](https://vitejs.dev/) - Module bundler, transpiler and dev server
+- [`Vitest`](https://vitest.dev/) - Test runner
+- [`Prettier`](https://prettier.io/) - Code formatter/checker
+- [`React-Testing-Library`](https://testing-library.com/docs/react-testing-library/api/) - React component test helper
+- [`MSW`](https://testing-library.com/docs/react-testing-library/api/) - Request mocking library for writing frontend tests
+- [`React-Auth-Kit`] (https://authkit.arkadip.dev/) - Authentication kit used for react project to grant cookies for remembering users
+- [`Supertest`](https://github.com/ladjs/supertest) - HTTP request simulator for backend testing
+- [`Docker`](https://www.docker.com/) - Containerization framework for dev and deployment
+- ['Playwright'] (https://www.npmjs.com/package/playwright-testing-library) - Scripting UI interactivity tests and the resulting changes to the site
+- [`Render`](https://render.com/) - Deploying the website production build
 
 
 # Full-Stack React Example
