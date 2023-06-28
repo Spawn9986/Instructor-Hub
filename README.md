@@ -1,3 +1,27 @@
+<p align="center">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Spawn9986/Instructor-Hub?logo=GitHub&style=flat-square"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Spawn9986/Instructor-Hub?logo=Github&style=flat-square"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/Spawn9986/Instructor-Hub?logo=GitHub&style=flat-square"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Spawn9986/Instructor-Hub?logo=GitHub&style=flat-square">
+</p>
+
+<p id="description">Instructor Hub (Capstone project for Galvanize Full Stack Software Development Bootcamp).</p>
+
+<p>Worked within a team of six utilizing Agile development practices and GIT workflows to deliver a PERN containerized application.
+My part of the project consisted of leveraging React.js and CSS to design and implement captivating front-end functionality and styling as well as developing comprehensive unit and end-to-end tests.</p>
+
+<h2>Project Screenshots:</h2>
+
+<img src="" alt="project-screenshot" width="973" height="463/">
+
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+- PERN Stack: (PostgreSQL | Express | React.js | Node)
+- Docker
+- Asana (Project Management)
+- Playwright Test Suite (unit and end to end testing)
+- BCrypt (login/ password security)
+- Render (deployment)
+
 # Full-Stack React Example
 
 This repo contains an example of a full-stack application with an express backend, a React frontend, and a postgres database. It's designed to be a starting point for a blue ocean project, or a reference for those wanting to get testing, CI, or docker working in their respective projects.
