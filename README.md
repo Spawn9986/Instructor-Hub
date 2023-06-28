@@ -24,10 +24,10 @@ Technologies used in the project:
 - [`Prettier`](https://prettier.io/) - Code formatter/checker
 - [`React-Testing-Library`](https://testing-library.com/docs/react-testing-library/api/) - React component test helper
 - [`MSW`](https://testing-library.com/docs/react-testing-library/api/) - Request mocking library for writing frontend tests
-- [`React-Auth-Kit`] (https://authkit.arkadip.dev/) - Authentication kit used for react project to grant cookies for remembering users
+- [`React-Auth-Kit`](https://authkit.arkadip.dev/) - Authentication kit used for react project to grant cookies for remembering users
 - [`Supertest`](https://github.com/ladjs/supertest) - HTTP request simulator for backend testing
 - [`Docker`](https://www.docker.com/) - Containerization framework for dev and deployment
-- ['Playwright'] (https://www.npmjs.com/package/playwright-testing-library) - Scripting UI interactivity tests and the resulting changes to the site
+- [`Playwright`] (https://www.npmjs.com/package/playwright-testing-library) - Scripting UI interactivity tests and the resulting changes to the site
 - [`Render`](https://render.com/) - Deploying the website production build
 
 
