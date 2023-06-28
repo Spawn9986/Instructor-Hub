@@ -9,12 +9,12 @@ My part of the project consisted of leveraging React.js and CSS to design and im
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/loginPage.png" alt="Project Screen Shot 1" width="700" height="370/">
-<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/registerPage.png" alt="Project Screen Shot 2" width="700" height="370/">
-<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/mainDashboard.png" alt="Project Screen Shot 3" width="778" height="370/">
-<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/projectsTab.png" alt="Project Screen Shot 4" width="778" height="370/">
-<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/addNewStudent.png" alt="Project Screen Shot 5" width="778" height="370/">
-<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/addNewCohort.png" alt="Project Screen Shot 6" width="778" height="370/">
+<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/loginPage.png" alt="Project Screen Shot 1" align="center" width="700" height="370/">
+<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/registerPage.png" alt="Project Screen Shot 2" align="center" width="700" height="370/">
+<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/mainDashboard.png" alt="Project Screen Shot 3" align="center" width="778" height="370/">
+<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/projectsTab.png" alt="Project Screen Shot 4" align="center" width="778" height="370/">
+<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/addNewStudent.png" alt="Project Screen Shot 5" align="center" width="778" height="370/">
+<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/addNewCohort.png" alt="Project Screen Shot 6" align="center" width="778" height="370/">
 
 <h2>💻 Built with</h2>
 
