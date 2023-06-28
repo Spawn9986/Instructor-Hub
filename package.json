@@ -1,0 +1,22 @@
+{
+  "name": "full-stack-react",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "prettier --check .",
+    "test": "concurrently \"npm:test:*\"",
+    "ci": "npm run lint && npm run test",
+    "test:client": "npm run test --prefix=client",
+    "test:api": "npm run test --prefix=api",
+    "seed": "node /api/src/db/seed.js"
+  },
+  "devDependencies": {
+    "concurrently": "^7.1.0",
+    "prettier": "^2.8.4"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.33.0",
+    "ci": "^2.2.0",
+    "dotenv": "^16.0.3",
+    "pg": "^8.10.0"
+  }
+}

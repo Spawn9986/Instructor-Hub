@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^9.0.0",
+    "pg": "^8.10.0"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/serverDeployed.js",
+    "test": "echo 'add tests'",
+    "migrate": "node src/db/migration.js",
+    "seed": "node src/db/seed.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12",
+    "supertest": "^6.3.3",
+    "vitest": "^0.29.2"
+  }
+}
