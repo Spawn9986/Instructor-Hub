@@ -41,12 +41,12 @@ Technologies used in the project:
 
 ## Contributors
 
-[`Billy Thomasello`](https://github.com/2000mato) 
-[`Jesten Baez`](https://github.com/JesthenB)
-[`David Ortiz`](https://github.com/Abellarr)
-[`Tomas Corradini`](https://github.com/tomict23)
-[`Shuyi Hoo`] 
-[`Shawn Couch`](https://github.com/Spawn9986)
+- [`Billy Thomasello`](https://github.com/2000mato) 
+- [`Jesten Baez`](https://github.com/JesthenB)
+- [`David Ortiz`](https://github.com/Abellarr)
+- [`Tomas Corradini`](https://github.com/tomict23)
+- Shuyi Hoo
+- [`Shawn Couch`](https://github.com/Spawn9986)
 
 
 # Full-Stack React Example
