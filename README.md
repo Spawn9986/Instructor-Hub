@@ -27,7 +27,7 @@ Technologies used in the project:
 - [`React`](https://react.dev/) - User interface library
 - [`Node`](https://nodejs.org/en) - JavaScript runtime environment
 - [`Asana`](https://app.asana.com/0/home/1204525778089563) - Project Management tool
-- [`BCrypt`](https://bcrypt.online/) - Login/ Security (cryptographic hashing algorithm, recommended for password hashing)
+- [`BCryptjs`](https://www.npmjs.com/package/bcryptjs) - Login/ Security (cryptographic hashing algorithm, recommended for password hashing)
 - [`Vite`](https://vitejs.dev/) - Module bundler, transpiler and dev server
 - [`Vitest`](https://vitest.dev/) - Test runner
 - [`Prettier`](https://prettier.io/) - Code formatter/checker
@@ -38,6 +38,15 @@ Technologies used in the project:
 - [`Docker`](https://www.docker.com/) - Containerization framework for dev and deployment
 - [`Playwright`](https://www.npmjs.com/package/playwright-testing-library) - Scripting UI interactivity tests and the resulting changes to the site
 - [`Render`](https://render.com/) - Deploying the website production build
+
+## Contributors
+
+[`Billy Thomasello`](https://github.com/2000mato) 
+[`Jesten Baez`](https://github.com/JesthenB)
+[`David Ortiz`](https://github.com/Abellarr)
+[`Tomas Corradini`](https://github.com/tomict23)
+[`Shuyi Hoo`] 
+[`Shawn Couch`](https://github.com/Spawn9986)
 
 
 # Full-Stack React Example
