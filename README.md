@@ -1,4 +1,12 @@
-<p id="description">Instructor Hub (Capstone project for Galvanize Full Stack Software Development Bootcamp).</p>
+<h1 align="center" id="title">Instructor Hub</h1>
+
+<p align="center"><img src="https://socialify.git.ci/Spawn9986/Instructor-Hub/image?name=1&amp;theme=Auto" alt="project-image"></p>
+
+<p align="center">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Spawn9986/Instructor-Hub?logo=GitHub&style=flat-square"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Spawn9986/Instructor-Hub?logo=Github&style=flat-square"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/Spawn9986/Instructor-Hub?logo=GitHub&style=flat-square"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Spawn9986/Instructor-Hub?logo=GitHub&style=flat-square">
+</p>
+
+<p id="description">Capstone project for Galvanize Full Stack Software Development Bootcamp.</p>
 
 <p>Worked within a team of six utilizing Agile development practices and GIT workflows to deliver a PERN containerized application.
 My part of the project consisted of leveraging React.js and CSS to design and implement captivating front-end functionality and styling as well as developing comprehensive unit and end-to-end tests.</p>
