@@ -9,6 +9,13 @@ My part of the project consisted of leveraging React.js and CSS to design and im
 
 <h2>Project Screenshots:</h2>
 
+<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/loginPage.png" alt="project-flow-chart" width="973" height="463/">
+<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/registerPage.png" alt="project-flow-chart" width="973" height="463/">
+<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/mainDashboard.png" alt="project-flow-chart" width="973" height="463/">
+<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/projectsTab.png">
+<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/addNewStudent.png" alt="project-flow-chart" width="973" height="463/">
+<img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/addNewCohort.png" alt="project-flow-chart" width="973" height="463/">
+
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
