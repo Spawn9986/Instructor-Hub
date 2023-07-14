@@ -18,6 +18,9 @@ My part of the project consisted of leveraging React.js and CSS to design and im
     <img src="https://github.com/Spawn9986/Instructor-Hub/blob/main/Project%20Screenshots/addNewCohort.png" alt="Project Screen Shot 6" width="700" height="370/">
 </div>
 
+<h2>Video Demo</h2>
+<a href="https://www.youtube.com/watch?v=10sGQOSh55s&ab_channel=ShawnC">Video</a>
+
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
